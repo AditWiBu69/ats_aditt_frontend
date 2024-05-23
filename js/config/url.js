@@ -1,0 +1,1 @@
+export let MhsURL = "https://ats-adit-74312bce5f00.herokuapp.com/api/mahasiswa"; 
